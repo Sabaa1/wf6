@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Courses>
+	<course>
+		<name>C#</name>
+		<teacher>Luka Samkharadze</teacher>
+		<Students>
+		</Students>
+	</course>
+</Courses>

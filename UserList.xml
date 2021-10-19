@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Users>
+  <user>
+    <id>1</id>
+    <username>saba1</username>
+    <name>saba</name>
+    <lastname>delibashvili</lastname>
+    <password>saba2005</password>
+    <status>Student</status>
+    <course>C#</course>
+  </user>
+  <user>
+    <id>2</id>
+    <username>erti</username>
+    <name>ori</name>
+    <lastname>sami</lastname>
+    <password>otxi</password>
+    <status>Teacher</status>
+    <course>Java</course>
+  </user>
+</Users>
